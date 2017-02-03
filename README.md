@@ -6,6 +6,6 @@
             Simple search files recursively
 
 
-Recommended packages for any Linux System Administrator
-telnet
-netcat
+Recommended packages for any Linux System Administrator   
+telnet   
+netcat   
